@@ -1,0 +1,42 @@
+# Core Streamlit and web framework
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# File handling and processing
+Pillow>=10.0.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+openpyxl>=3.1.0
+
+# JSON and data serialization
+jsonlines>=3.1.0
+
+# Date and time handling
+python-dateutil>=2.8.0
+
+# Optional: For actual OCR functionality (if you want to implement real OCR)
+# opencv-python>=4.8.0
+# pytesseract>=0.3.10
+# easyocr>=1.7.0
+
+# Optional: For PDF processing (if implementing real PDF handling)
+# pdf2image>=1.16.3
+# pymupdf>=1.23.0
+
+# Optional: For advanced text processing
+# spacy>=3.7.0
+# transformers>=4.30.0
+# torch>=2.0.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.65.0
